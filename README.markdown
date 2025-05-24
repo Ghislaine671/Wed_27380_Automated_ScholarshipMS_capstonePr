@@ -260,6 +260,22 @@ This project implements a PL/SQL-based Oracle database solution for an automated
 - AUCA Capstone Project Guidelines (2024-2025)
 - BPMN and UML standards for process modeling
 
+
+## 📸 RESULT OUTPUTS
+
+![Image](https://github.com/user-attachments/assets/fb634ada-efdc-41aa-8664-18e9bb75a3d7)
+![Image](https://github.com/user-attachments/assets/a446383a-d2ef-43d2-93b9-60c881977cd7)
+![Image](https://github.com/user-attachments/assets/f3596c72-7f75-456a-8534-316054827e80)
+![Image](https://github.com/user-attachments/assets/697a2b30-ba2f-477d-a6f3-b04c10f7d5f5)
+![Image](https://github.com/user-attachments/assets/dda867e9-4554-4197-9859-288b6d9c7706)
+![Image](https://github.com/user-attachments/assets/df65b14b-ace9-4399-b7b3-09f5baebb30f)
+![Image](https://github.com/user-attachments/assets/70c94944-67d9-4efd-803b-cf94f285b1c3)
+![Image](https://github.com/user-attachments/assets/dd4035d7-7e90-4821-b1f9-d452f080b399)
+![Image](https://github.com/user-attachments/assets/a0158219-371f-4cfe-be00-a98073640afc)
+![Image](https://github.com/user-attachments/assets/166a86c2-46de-4098-ac05-bf7c1866b763)
+![Image](https://github.com/user-attachments/assets/d872c973-a048-4f9a-943a-6813b78bb6f4)
+![Image](https://github.com/user-attachments/assets/c2706fb3-486d-4ea3-81f7-94e65c1251b4)
+
 ---
 
 **Author**: Mushirarungu (Student ID: 27380)  
