@@ -40,6 +40,9 @@ This project implements a PL/SQL-based Oracle database solution for an automated
   - Create a swimlane diagram using Lucidchart/draw.io to visualize interactions.
   - Write a one-page explanation aligning with MIS principles (e.g., streamlined decision-making).
 - **Deliverable**: BPMN diagram and description submitted via GitHub.
+  
+  ![Image](https://github.com/user-attachments/assets/10ec60d8-d162-403f-85a9-19a11fc58180)
+
 - **Sample Code**: Not directly applicable, but a query to simulate process flow analysis:
   ```sql
   -- Simulate process flow data retrieval
@@ -55,7 +58,7 @@ This project implements a PL/SQL-based Oracle database solution for an automated
   - Create an ER model with entities (`Students`, `Scholarships`, `Reviewers`, `Applications`).
   - Define attributes, primary keys (PKs), foreign keys (FKs), and constraints (e.g., NOT NULL, CHECK for GPA between 0-4).
   - Normalize to 3rd Normal Form (3NF) to eliminate redundancy.
-- **Deliverable**: ER diagram and documentation submitted for feedback.
+- **Deliverable**: ![Image](https://github.com/user-attachments/assets/e33639af-4830-486b-a5d0-e72030b84ab2)
 - **Sample Code**: SQL for a conceptual table structure:
   ```sql
   -- Conceptual table structure for Students
